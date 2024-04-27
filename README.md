@@ -1,5 +1,8 @@
 # Pocketto-Rocketto
 Pocketto Rocketto provides non-ads adult content on webview.
+How is that possible; with some filter-list, request-block and cosmetic filters by selected, specialized for per website in the app.
+Pocketto Rocketto blocks almost every request coming from ad-platform broadcast. This makes your adult video experience more flow and soft without ads.
+Also provides offline bookmark options *realtime-database is just for check or block app version.* with realm-mongo technologies.
 
 # the technologies used in this project
 Dagger - Hilt -> https://github.com/google/dagger
