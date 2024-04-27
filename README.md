@@ -4,7 +4,7 @@ How is that possible; with some filter-list, request-block and cosmetic filters 
 Pocketto Rocketto blocks almost every request coming from ad-platform broadcast. This makes your adult video experience more flow and soft without ads.
 Also provides offline bookmark options *realtime-database is just for check or block app version.* with realm-mongo technologies.
 
-Unfortuanetly i can just show select page of app, but you can just check the all components by download app on your phone.. :)
+Unfortuanetly i can just show select screen of the app, but you can just check the all components by download app on your phone.. :)
 
 # the technologies used in this project
 Dagger - Hilt -> https://github.com/google/dagger
