@@ -1,4 +1,4 @@
-# Pocketto-Rocketto +18
+# Pocketto-Rocketto
 Pocketto Rocketto provides non-ads adult content on webview.
 How is that possible; with some filter-list, request-block and cosmetic filters by selected, specialized for per website in the app.
 Pocketto Rocketto blocks almost every request coming from ad-platform broadcast. This makes your adult video experience more flow and soft without ads.
