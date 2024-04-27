@@ -1,6 +1,6 @@
 # Pocketto-Rocketto
 Pocketto Rocketto provides non-ads adult content on webview.
-# used technologies
+# the technologies used in this project
 Dagger2
 Realm
 WebView
