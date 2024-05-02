@@ -9,7 +9,7 @@ Unfortuanetly i can just show select screen of the app, but you can just check t
 # the technologies used in this project
 Dagger - Hilt -> https://github.com/google/dagger
 
-Realm -> https://github.com/realm/realm-kotlin
+Realm DB (MongoDB) -> https://github.com/realm/realm-kotlin
 
 WebView
 
